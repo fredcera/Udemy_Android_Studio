@@ -1,4 +1,4 @@
-package curso.udemy.appaula1;
+package curso.udemy.appaula1.view;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import curso.udemy.appaula1.R;
 
 public class MainActivity extends AppCompatActivity {
 
